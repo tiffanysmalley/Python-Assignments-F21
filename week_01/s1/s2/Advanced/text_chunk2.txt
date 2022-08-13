@@ -1,0 +1,2 @@
+Virtual environments are good for easily managing and maintaining only the relevant packages and dependencies you need for each specific project.
+I like them because help keep my separate projects tidy, ensures they have the packages required, and that they don't have access to any packages they don't need. 

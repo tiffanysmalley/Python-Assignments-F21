@@ -1,0 +1,12 @@
+touch answers.txt
+mkdir s1
+cd s1
+mkdir s3
+cd s3
+touch conf.txt
+mkdir s2
+cd s2
+touch text_chunk1.txt
+mkdir Advanced
+cd Advanced
+touch text_chunk2.txt

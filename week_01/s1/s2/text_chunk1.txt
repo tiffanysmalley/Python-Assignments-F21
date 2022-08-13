@@ -1,0 +1,1 @@
+Virtual environments are good for easily managing and maintaining only the relevant packages and dependencies you need for each specific project. 
